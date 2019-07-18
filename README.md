@@ -11,7 +11,7 @@ Treat others as you wish to be treated.
 We are a team, don't be afraid to be judged. We support each other.
 
 ## Autonomy
-You are the owner of your task, you are free to do it however you want to do it, but also be sure to fulfill the requirements of the task.
+You are the owner of your task, you choose how to do your tasks , when to ask for help, and when to pull the plug on a discussion that you asked for.
 
 ## Responsability
 You are responsible for your actions. But as a team, we all are responsible for the product and for what we deploy.
