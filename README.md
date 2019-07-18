@@ -17,7 +17,7 @@ You are the owner of your task, you choose how to do your tasks , when to ask fo
 You are responsible for your actions. But as a team, we all are responsible for the product and for what we deploy.
 
 ## Ownership
-Be the owner of your code and projects.  If something fails on it, you have to take care of it.
+Be the owner of your code and projects. If something fails on it, you have to take care of it.
 
 ## Healthy Culture of Controversy
 In a discussion it is ok to disagree. But a healthy culture of controversy includes, that other points of views next to yours are not only allowed, but as valid and valuable as your own. Additionally the person who works on the task has the right to stop the argument at any time, take an informed decision and continue working.
