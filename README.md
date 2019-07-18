@@ -1,7 +1,7 @@
 # Code of Conduct
 
 ## Diversity
-Let's tolerate others, no matter the gender, nationality, culture, religion.
+We tolerate others, no matter the gender, nationality, culture, religion.
 
 ## Respect
 We all have different backgrounds, beliefs and points of view.
