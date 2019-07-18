@@ -7,7 +7,7 @@ We tolerate others, no matter the gender, nationality, culture, religion.
 We all have different backgrounds, beliefs and points of view.
 Treat others as you wish to be treated.
 
-## Trust
+## Trust and Cooperation
 We are a team, don't be affraid to be judged. Let's support each other.
 
 ## Autonomy
