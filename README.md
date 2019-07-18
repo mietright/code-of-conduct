@@ -23,7 +23,7 @@ Be the owner of your code and projects.  If something fails on it, you have to t
 In a discussion it is ok to disagree. But a healthy culture of controversy includes, that other points of views next to yours are not only allowed, but as valid and valuable as your own. Additionally the person who works on the task has the right to stop the argument at any time, take an informed decision and continue working.
 
 ## Disagree and Commit
-Let's commit on what we agree. (please, I need help to finish this one)
+It is not always necessary that you agree with everything and everyone in order to commit to the task. Feel free to discus it and make your points, but you are expected to be reliable on delivering high quality work, even if you don't agree with the outcome.
 
 ## Raise the flag
 If you feel that there is something wrong, please raise the flag and speak. Let's have a meeting and talk about the things that you don't like. Your thoughts are important for us.
