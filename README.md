@@ -25,5 +25,5 @@ You don't have to agree with everything we say, it is ok to disagree, give your 
 ## Commit
 Let's commit on what we agree. (please, I need help to finish this one)
 
-## Raise the flag at the correct time
+## Raise the flag
 If you feel that there is something wrong, please raise the flag and speak. Let's have a meeting and talk about the things that you don't like. Your thoughts are important for us.
