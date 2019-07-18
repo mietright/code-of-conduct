@@ -8,7 +8,7 @@ We all have different backgrounds, beliefs and points of view.
 Treat others as you wish to be treated.
 
 ## Trust and Cooperation
-We are a team, don't be affraid to be judged. Let's support each other.
+We are a team, don't be afraid to be judged. We support each other.
 
 ## Autonomy
 You are the owner of your task, you are free to do it however you want to do it, but also be sure to fulfill the requirements of the task.
