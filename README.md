@@ -4,7 +4,7 @@
 We accept others, no matter the gender, nationality, culture, religion.
 
 ## Respect
-We all have different backgrounds, beliefs and points of view.
+We all have different backgrounds, beliefs, and points of view. We respect all of them.
 Treat others as you wish to be treated.
 
 ## Trust and Cooperation
@@ -14,16 +14,17 @@ We are a team, don't be afraid to be judged. We support each other.
 You are the owner of your task, you choose how to do your tasks , when to ask for help, and when to pull the plug on a discussion that you asked for.
 
 ## Responsibility
-You are responsible for your actions. But as a team, we all are responsible for the product and for what we deploy.
+We are individually responsible for our parts of the products. Also, collectively as a team, we all are responsible for the health and features of the whole product.
 
 ## Ownership
-Be the owner of your code and projects. If something fails on it, you have to take care of it.
+Each one of us is the owner of their code and/or projects. If something fails, they have to take care of the failure, ensure completeness and ensure the return to full health.
 
 ## Healthy Culture of Controversy
-In a discussion it is ok to disagree. But a healthy culture of controversy includes, that other points of views next to yours are not only allowed, but as valid and valuable as your own. Additionally the person who works on the task has the right to stop the argument at any time, take an informed decision and continue working.
+It is ok to disagree in a discussion. A healthy culture of controversy includes that everyone's views might be equally valid and valuable. Although the person who works on the task gets to have the absolute right to stop the argument at any time.
 
 ## Disagree and Commit
-It is not always necessary that you agree with everything and everyone in order to commit to the task. Feel free to discuss it and make your points, but you are expected to be reliable on delivering high quality work, even if you don't agree with the outcome.
+It is not always necessary that everyone agrees with everything and everyone else in order to commit to the task. We should discuss it and present our concerns during the discussion, but once committed we ought to deliver the highest quality work, specially in broader and shared tasks.
 
 ## Raise the flag
-If you feel that there is something wrong, please raise the flag and speak. Let's have a meeting and talk about the things that you don't like. Your thoughts are important for us.
+If we feel that something is wrong, we should not be afraid to raise the flag and speak about it. 
+We have talk about the things that we don't like. Everyone is equally important for us.
