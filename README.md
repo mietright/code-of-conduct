@@ -11,7 +11,7 @@ Treat others as you wish to be treated.
 We are a team, we don't judge rather support each other.
 
 ## Autonomy
-You are the owner of your task, you choose how to do your tasks , when to ask for help, and when to pull the plug on a discussion that you asked for.
+Each member of the team is the owner of their task. They choose how to do the tasks , when to ask for help, and when to pull the plug on a discussion that they asked for.
 
 ## Responsibility
 We are individually responsible for our parts of the products. Also, collectively as a team, we all are responsible for the health and features of the whole product.
@@ -20,7 +20,7 @@ We are individually responsible for our parts of the products. Also, collectivel
 Each one of us is the owner of their code and/or projects. If something fails, they have to take care of the failure, ensure completeness and ensure the return to full health.
 
 ## Healthy Culture of Controversy
-It is ok to disagree in a discussion. A healthy culture of controversy includes that everyone's views might be equally valid and valuable. Although the person who works on the task gets to have the absolute right to stop the argument at any time.
+It is ok to disagree in a discussion. A healthy culture of controversy includes that everyone's views are equally valid and valuable. Although the person who works on the task gets to have the absolute right to stop the argument at any time.
 
 ## Disagree and Commit
 It is not always necessary that everyone agrees with everything and everyone else in order to commit to the task. We should discuss it and present our concerns during the discussion, but once committed we ought to deliver the highest quality work, specially in broader and shared tasks.
