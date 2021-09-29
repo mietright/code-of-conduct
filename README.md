@@ -13,6 +13,14 @@ We are a team, we don't judge rather support each other.
 ## Autonomy
 Each member of the team is the owner of their tasks. They choose how to do their tasks, when to ask for help, and when to pull the plug on a discussion that they asked for.
 
+## Credits and recognition
+Give credits to the original owner for ideas and implementations. The team should not compete with each other and feel free to share thoughts with confidence.  It includes Ideas, design, execution, or any piece of work. 
+
+Do not take credit for the idea or implementation of someone else. It is ok to use ideas as a base, but we need to give credit to the owner of the original idea.
+
+### Gratitude
+If someone helped us or contributed to something, it would be great if you could give thanks to this person publicly. It is not mandatory to do it, but it will be a nice gesture from your side.
+
 ## Responsibility
 We are individually responsible for our parts of the products. Also, collectively as a team, we all are responsible for the health and features of the whole product.
 
