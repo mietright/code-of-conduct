@@ -4,8 +4,7 @@
 We accept others, no matter the gender, nationality, culture, religion.
 
 ## Respect
-We all have different backgrounds, beliefs, and points of view. We respect all of them.
-Treat others as you wish to be treated.
+We all have different backgrounds, beliefs and points of view. Make sure everyone feels respected.
 
 ## Trust and Cooperation
 We are a team, we don't judge rather support each other.
