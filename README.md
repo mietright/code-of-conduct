@@ -7,6 +7,18 @@ We accept others, no matter the gender, nationality, culture, religion.
 We all have different backgrounds, beliefs, and points of view. We respect all of them.
 Treat others as you wish to be treated.
 
+## Work Balance
+We don't want to cause burnout in our team.
+
+We need to remember that we are not robots; we shouldn’t load ourselves with more tasks than we can handle.
+We should check in with our non-robot teammates to ensure that they too are not overloaded or burning out.
+
+We should foster an environment where it is healthy to speak up about an excessive amount of work.
+The Sprint Planning ritual is a good opportunity to talk about task loads and to set healthy expectations about work volume.
+We should be careful about setting constantly expanding expectations based on the pace of work: just because the team finised X tickets last sprint does not mean that the right goal is 2X for next sprint.
+
+Although we might have some short bursts of high amounts of work, this should not be the standard.
+
 ## Trust and Cooperation
 We are a team, we don't judge rather support each other.
 
