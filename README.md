@@ -10,16 +10,17 @@ Treat others as you wish to be treated.
 ## Trust and Cooperation
 We are on the same team, we do not judge, rather support each other.
 Everyone can trust that it is safe to raise concerns and speak up if there is a problem. Everyone can trust that it will be taken seriously and it will not backfire.
-Assume the best intent of your colleagues: social distances due to working remotely can give you the opposite impression.
-Everyone can express his opinion without expecting judgment.
 
-We do not judge our teammates' opinions, and we assume their best intentions.
+Assume the best intentions of your colleagues: social distances due to working remotely can give you the opposite impression.
+
+Everyone can express their opinion without expecting judgment.
+
 We help build up our teammates instead of tearing them down.
 
 ### Transparency
-We do not hide neither information nor planning to our teammates regarding the development of our projects and features, weather or not they are part of it.
+We do not hide either information or planning to our teammates regarding the development of our projects and features, weather or not they are part of it.
 We do not hide anything to protect our image or keep control of something.
-We assume our teammates are completely transparent with us.
+We assume our teammates are entirely transparent with us.
 
 ## Autonomy
 Each member of the team is the owner of their tasks. They choose how to do their tasks, when to ask for help, and when to pull the plug on a discussion that they asked for.
