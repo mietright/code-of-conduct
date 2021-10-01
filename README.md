@@ -30,7 +30,6 @@ If we feel that something is wrong, we should not be afraid to raise the flag an
 We have talk about the things that we don't like. Everyone is equally important for us.
 
 ## Healthy Culture of Controversy
-
 It is ok to disagree in a discussion. A healthy culture of controversy includes that everyone's subjective views are equally valid and valuable. When it comes to objective facts, standards, references, and pure logic is the way to resolve them. 
 If there is no agreement in the discussion then escalate it to the person that is accountable or the expert of this field to make a decision.
 In the discussion we need to make sure that every argument has been heard and there is no winner or loser in a discussion. A discussion shouldn’t be about ego.
