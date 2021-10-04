@@ -11,7 +11,7 @@ Treat others as you wish to be treated.
 We are on the same team, we do not judge, rather support each other.
 Everyone can trust that it is safe to raise concerns and speak up if there is a problem. Everyone can trust that it will be taken seriously and it will not backfire.
 
-Assume the best intentions of your colleagues: social distances due to working remotely can give you the opposite impression.
+Assume the best intentions of your colleagues: social distances due to working remotely can give you a different impression than it was meant.
 
 Everyone can express their opinion without expecting judgment.
 
