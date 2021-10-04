@@ -61,7 +61,7 @@ Each one of us is the owner of their code and/or projects. If something fails, t
 ## Healthy Culture of Controversy
 It is ok to disagree in a discussion. A healthy culture of controversy includes that everyone's subjective views are equally valid and valuable. When it comes to objective facts, standards, references, and pure logic is the way to resolve them. 
 If there is no agreement in the discussion then escalate it to the accountable person or the expert of this field to decide.
-In the discussion we need to make sure that every argument has been heard and there is no winner or loser in a discussion. A discussion shouldn’t be about ego.
+In the discussion we need to make sure that every argument has been heard and there is no winner or loser. A discussion shouldn't be about ego.
 
 ## Disagree and Commit
 It is not always necessary that everyone agrees with everything and everyone else in order to commit to the task and do our best. We should discuss it and present our concerns during the discussion, but once committed we ought to deliver the highest quality work, especially in broader and shared tasks.
