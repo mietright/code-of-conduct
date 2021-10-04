@@ -20,7 +20,8 @@ We are individually responsible for our parts of the products. Also, collectivel
 Each one of us is the owner of their code and/or projects. If something fails, they have to take care of the failure, ensure completeness and ensure the return to full health.
 
 ## Healthy Culture of Controversy
-It is ok to disagree in a discussion. A healthy culture of controversy includes that everyone's subjective views are equally valid and valuable. When it comes to objective facts, standards, references, and pure logic is the way to resolve them. 
+It is ok to disagree in a discussion. A healthy culture of controversy includes that everyone's subjective views are equally valid and valuable. When it comes to objective facts, standards, references, and pure logic is the way to resolve them.
+
 If there is no agreement in the discussion then escalate it to the accountable person or the expert of this field to decide.
 In the discussion we need to make sure that every argument has been heard and there is no winner or loser. A discussion shouldn't be about ego.
 
