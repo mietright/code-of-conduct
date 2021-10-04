@@ -23,7 +23,11 @@ Each one of us is the owner of their code and/or projects. If something fails, t
 It is ok to disagree in a discussion. A healthy culture of controversy includes that everyone's views are equally valid and valuable. Although the person who works on the task gets to have the absolute right to stop the argument at any time.
 
 ## Disagree and Commit
-It is not always necessary that everyone agrees with everything and everyone else in order to commit to the task. We should discuss it and present our concerns during the discussion, but once committed we ought to deliver the highest quality work, specially in broader and shared tasks.
+It is not always necessary that everyone agrees with everything and everyone else in order to commit to the task and do our best. We should discuss it and present our concerns during the discussion, but once committed we ought to deliver the highest quality work, especially in broader and shared tasks.
+
+We shouldn't sabotage our features just because we don't agree about them.
+
+"Diversity in counsel, unity in command" – attributed to Cyrus the Great, Persian king in the 6th century BCE on why he was successful
 
 ## Raise the flag
 If we feel that something is wrong, we should not be afraid to raise the flag and speak about it. 
