@@ -14,7 +14,9 @@ We are a team, we don't judge rather support each other.
 Each member of the team is the owner of their tasks. They choose how to do their tasks, when to ask for help, and when to pull the plug on a discussion that they asked for.
 
 ## Credits and recognition
-Give credits to the original owner for ideas and implementations. The team should not compete with each other and feel free to share thoughts with confidence.  It includes Ideas, design, execution, or any piece of work. 
+Give credits to the original owner for ideas and implementations.
+The team should not compete with each other and feel free to share thoughts with confidence.
+It includes ideas, design, execution, or any piece of work.
 
 Do not take credit for the idea or implementation of someone else. It is ok to use ideas as a base, but we need to give credit to the owner of the original idea.
 
