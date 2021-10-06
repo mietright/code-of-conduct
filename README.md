@@ -18,10 +18,11 @@ If we don’t agree on something, we need to give constructive feedback instead 
 
 Remember to always praise in public and correct in private.
 
-## Responsibility
-We are individually responsible for our parts of the products. Also, collectively as a team, we all are responsible for the health and features of the whole product.
+## Ownership and Responsibility
+We are individually responsible for our parts of the products. We are individually responsible for properly documenting our parts of the products. Also, collectively as a team, we all are responsible for the health and features of the whole product.
 
-## Ownership
+We always do everything in our power, constrained by the realities of any given project, to not introduce vulnerabilities that could be exploited and impact Conny's image, infrastructure, data or its customers.
+
 Each one of us is the owner of their code and/or projects. If something fails, they have to take care of the failure, ensure completeness and ensure the return to full health.
 
 ## Healthy Culture of Controversy
