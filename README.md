@@ -18,7 +18,7 @@ Everyone can express their opinion without expecting judgment.
 We help build up our teammates instead of tearing them down.
 
 ### Transparency
-We do not hide either information or planning to our teammates regarding the development of our projects and features, weather or not they are part of it.
+We do not hide either information or planning to our teammates regarding the development of our projects and features, whether or not they are part of it.
 We do not hide anything to protect our image or keep control of something.
 We assume our teammates are entirely transparent with us.
 
