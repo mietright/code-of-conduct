@@ -13,11 +13,10 @@ We are a team, we don't judge rather support each other.
 ## Autonomy
 Each member of the team is the owner of their tasks. They choose how to do their tasks, when to ask for help, and when to pull the plug on a discussion that they asked for.
 
-## Ownership and Responsibility
-We are individually responsible for our parts of the products. We are individually responsible for properly documenting our parts of the products. Also, collectively as a team, we all are responsible for the health and features of the whole product.
+## Responsibility
+We are individually responsible for our parts of the products. Also, collectively as a team, we all are responsible for the health and features of the whole product.
 
-We always do everything in our power, constrained by the realities of any given project, to not introduce vulnerabilities that could be exploited and impact Conny's image, infrastructure, data or its customers.
-
+## Ownership
 Each one of us is the owner of their code and/or projects. If something fails, they have to take care of the failure, ensure completeness and ensure the return to full health.
 
 ## Healthy Culture of Controversy
