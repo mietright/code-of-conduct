@@ -13,10 +13,7 @@ We are a team, we don't judge rather support each other.
 ## Autonomy
 Each member of the team is the owner of their tasks. Together with the accountable person, they ensure that the solution of the tasks is aligned to the goals. They are responsible for ensuring that the task meets the quality and the standards that are needed, determining when and how best to involve others. 
 
-
-Together with the accountable person, they ensure that the solution of the tasks is aligned to the goals:
-This can lead to micromanagement
-
+It is important to not that accountability should not necessitate micromanagement.
 
 ## Responsibility
 We are individually responsible for our parts of the products. Also, collectively as a team, we all are responsible for the health and features of the whole product.
