@@ -11,7 +11,12 @@ Treat others as you wish to be treated.
 We are a team, we don't judge rather support each other.
 
 ## Autonomy
-Each member of the team is the owner of their tasks. They choose how to do their tasks, when to ask for help, and when to pull the plug on a discussion that they asked for.
+Each member of the team is the owner of their tasks. Together with the accountable person, they ensure that the solution of the tasks is aligned to the goals. They are responsible for ensuring that the task meets the quality and the standards that are needed, determining when and how best to involve others. 
+
+
+Together with the accountable person, they ensure that the solution of the tasks is aligned to the goals:
+This can lead to micromanagement
+
 
 ## Responsibility
 We are individually responsible for our parts of the products. Also, collectively as a team, we all are responsible for the health and features of the whole product.
