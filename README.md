@@ -71,10 +71,11 @@ Do not take credit for the idea or implementation of someone else. It is ok to u
 ### Gratitude
 If someone helped us or contributed to something, it would be great if you could give thanks to this person publicly. It is not mandatory to do it, but it will be a nice gesture from your side.
 
-## Responsibility
-We are individually responsible for our parts of the products. Also, collectively as a team, we all are responsible for the health and features of the whole product.
+## Ownership and Responsibility
+We are individually responsible for our parts of the products. We are individually responsible for properly documenting our parts of the products. Also, collectively as a team, we all are responsible for the health and features of the whole product.
 
-## Ownership
+We always do everything in our power, constrained by the realities of any given project, to not introduce vulnerabilities that could be exploited and impact Conny's image, infrastructure, data or its customers.
+
 Each one of us is the owner of their code and/or projects. If something fails, they have to take care of the failure, ensure completeness and ensure the return to full health.
 
 ## Healthy Culture of Controversy
