@@ -27,5 +27,5 @@ It is ok to disagree in a discussion. A healthy culture of controversy includes 
 It is not always necessary that everyone agrees with everything and everyone else in order to commit to the task. We should discuss it and present our concerns during the discussion, but once committed we ought to deliver the highest quality work, specially in broader and shared tasks.
 
 ## Raise the flag
-If we feel that something is wrong, we should not be afraid to raise the flag and speak about it. 
-We have talk about the things that we don't like. Everyone is equally important for us.
+If we feel that something is wrong, we should not be afraid to raise the flag and speak about it.
+We have to talk about the things that we don't like. Everyone is equally important to us.
