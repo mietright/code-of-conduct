@@ -8,7 +8,19 @@ We all have different backgrounds, beliefs, and points of view. We respect all o
 Treat others as you wish to be treated.
 
 ## Trust and Cooperation
-We are a team, we don't judge rather support each other.
+We are on the same team, we do not judge, rather support each other.
+Everyone can trust that it is safe to raise concerns and speak up if there is a problem. Everyone can trust that it will be taken seriously and it will not backfire.
+
+Assume the best intentions of your colleagues: social distances due to working remotely can give you a different impression than it was meant.
+
+Everyone can express their opinion without expecting judgment.
+
+We help build up our teammates instead of tearing them down.
+
+### Transparency
+We do not hide either information or planning to our teammates regarding the development of our projects and features, whether or not they are part of it.
+We do not hide anything to protect our image or keep control of something.
+We assume our teammates are entirely transparent with us.
 
 ## Autonomy
 Each member of the team is the owner of their tasks. They choose how to do their tasks, when to ask for help, and when to pull the plug on a discussion that they asked for.
@@ -36,5 +48,5 @@ It is ok to disagree in a discussion. A healthy culture of controversy includes 
 It is not always necessary that everyone agrees with everything and everyone else in order to commit to the task. We should discuss it and present our concerns during the discussion, but once committed we ought to deliver the highest quality work, specially in broader and shared tasks.
 
 ## Raise the flag
-If we feel that something is wrong, we should not be afraid to raise the flag and speak about it. 
+If we feel that something is wrong, we should not be afraid to raise the flag and speak about it.
 We have talk about the things that we don't like. Everyone is equally important for us.
