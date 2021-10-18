@@ -11,7 +11,7 @@ Treat others as you wish to be treated.
 We are a team, we don't judge rather support each other.
 
 ## Autonomy
-Each member of the team is the owner of their tasks. Together with the accountable person, they ensure that the solution of the tasks is aligned to the goals. They are responsible for ensuring that the task meets the quality and the standards that are needed, determining when and how best to involve others. 
+Each member of the team is the owner of their tasks. Together, with the accountable person, ensure that the solution of the task is aligned to the goals. They are responsible for ensuring that the solution meets the quality and the standards needed, determining when and how best to involve others.
 
 It is important to not that accountability should not necessitate micromanagement.
 
