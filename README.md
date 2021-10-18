@@ -13,6 +13,12 @@ We are a team, we don't judge rather support each other.
 ## Autonomy
 Each member of the team is the owner of their tasks. They choose how to do their tasks, when to ask for help, and when to pull the plug on a discussion that they asked for.
 
+## Blameless culture
+
+We are assumed to be doing our best. When mistakes happen, people aren’t blamed. Instead, any error is viewed as a manifestation of an underlying problem in the systems and processes. Attention is focused on fixing those vulnerabilities.
+
+It includes existing code review, tech debt, and any technical discussions, in which the original author must not be blamed for it but instead be included to focus on continuously improving systems. 
+
 ## Responsibility
 We are individually responsible for our parts of the products. Also, collectively as a team, we all are responsible for the health and features of the whole product.
 
