@@ -25,6 +25,11 @@ We assume our teammates are entirely transparent with us.
 ## Autonomy
 Each member of the team is the owner of their tasks. They choose how to do their tasks, when to ask for help, and when to pull the plug on a discussion that they asked for.
 
+## Giving and receiving Feedback
+If we don’t agree on something, we need to give constructive feedback instead of blaming. On the other hand, we need to be open to receiving feedback or changing if we agree that a change needs to happen.
+
+Remember to always praise in public and correct in private.
+
 ## Credits and recognition
 Give credits to the original owner for ideas and implementations.
 The team should not compete with each other and feel free to share thoughts with confidence.
