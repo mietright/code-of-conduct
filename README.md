@@ -4,8 +4,7 @@
 We accept others, no matter the gender, nationality, culture, religion.
 
 ## Respect
-We all have different backgrounds, beliefs, and points of view. We respect all of them.
-Treat others as you wish to be treated.
+We all have different backgrounds, beliefs and points of view. Make sure everyone feels respected.
 
 ## Work Balance
 We don't want to cause burnout in our team.
