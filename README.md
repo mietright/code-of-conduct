@@ -33,6 +33,19 @@ We do not hide either information or planning to our teammates regarding the dev
 We do not hide anything to protect our image or keep control of something.
 We assume our teammates are entirely transparent with us.
 
+## Freedom from Harassment
+We are committed to making participation in this project and company a harassment-free experience for everyone, regardless of level of experience, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, or nationality.
+Examples of unacceptable behavior include:
+* The use of sexualized language or imagery
+* Personal attacks
+* Public humiliation
+* Social exclusion
+* Verbal/physical abuse
+* Trolling or insulting/derogatory comments
+* Public or private harassment
+* Publishing other’s private information, such as physical or electronic addresses, without explicit permission
+* Intentionally triggering someone to hurt them
+
 ## Autonomy
 Each member of the team is the owner of their tasks. They choose how to do their tasks, when to ask for help, and when to pull the plug on a discussion that they asked for.
 
