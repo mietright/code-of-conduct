@@ -49,6 +49,11 @@ Examples of unacceptable behavior include:
 ## Autonomy
 Each member of the team is the owner of their tasks. They choose how to do their tasks, when to ask for help, and when to pull the plug on a discussion that they asked for.
 
+## Blameless culture
+We are assumed to be doing our best. When mistakes happen, people aren’t blamed. Instead, any error is viewed as a manifestation of an underlying problem in the systems and processes. Attention is focused on fixing those vulnerabilities.
+
+It includes existing code review, tech debt, and any technical discussions, in which the original author must not be blamed for it but instead be included to focus on continuously improving systems. 
+
 ## Giving and receiving Feedback
 If we don’t agree on something, we need to give constructive feedback instead of blaming. On the other hand, we need to be open to receiving feedback or changing if we agree that a change needs to happen.
 
