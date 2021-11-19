@@ -47,7 +47,9 @@ Examples of unacceptable behavior include:
 * Intentionally triggering someone to hurt them
 
 ## Autonomy
-Each member of the team is the owner of their tasks. They choose how to do their tasks, when to ask for help, and when to pull the plug on a discussion that they asked for.
+Each member of the team is the owner of their tasks. Together, with the accountable person, ensure that the solution of the task is aligned to the goals. They are responsible for ensuring that the solution meets the quality and the standards needed, determining when and how best to involve others.
+
+It is important to note that accountability should not necessitate micromanagement.
 
 ## Blameless culture
 We are assumed to be doing our best. When mistakes happen, people aren’t blamed. Instead, any error is viewed as a manifestation of an underlying problem in the systems and processes. Attention is focused on fixing those vulnerabilities.
