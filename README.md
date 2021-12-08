@@ -93,4 +93,4 @@ We shouldn't sabotage our features just because we don't agree about them.
 
 ## Raise the flag
 If we feel that something is wrong, we should not be afraid to raise the flag and speak about it.
-We have talk about the things that we don't like. Everyone is equally important for us.
+We have to talk about the things that we don't like. Everyone is equally important to us.
